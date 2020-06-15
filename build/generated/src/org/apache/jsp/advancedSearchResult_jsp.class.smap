@@ -1,0 +1,20 @@
+SMAP
+advancedSearchResult_jsp.java
+JSP
+*S JSP
+*F
++ 0 advancedSearchResult.jsp
+advancedSearchResult.jsp
+*L
+5,18:51
+23,31:70
+53,21:101
+74:122,3
+75,6:125
+81,5:131,3
+86,4:146
+90,2:150,3
+92,6:156
+98:162,3
+99,4:165
+*E
